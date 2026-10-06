@@ -82,4 +82,4 @@ Built by a certified HCC medical coder (ICD-10-CM, CMS risk adjustment) transiti
 ## Next Steps
 - Expand dataset volume and condition variety
 - Build a Power BI dashboard on top of `patient_gaps`
-- Extend into a predictive model (logistic regression / random forest) to flag patients likely to have a gap *before* it occurs, using features like age, condition count, and claim frequency
+
